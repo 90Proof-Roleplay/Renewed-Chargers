@@ -22,7 +22,7 @@ function utils.createBlip(data)
 
 	SetBlipSprite(blip, 361)
 	SetBlipDisplay(blip, 4)
-	SetBlipScale(blip, 0.8)
+	SetBlipScale(blip, 0.6)
 	SetBlipColour(blip, 6)
 	SetBlipAsShortRange(blip, true)
     SetBlipCategory(blip, 7)
